@@ -9,3 +9,6 @@
 Practice data set 1: ERR594327, ERR594330, ERR594334 </br>
 Practice data set 2: ERR1939171, ERR1939174, ERR1939272 </br>
 Practice data set 3: SRR10333603, SRR10333604, SRR10333605 </br>
+
+- Python code of Supplementary data 1 can be downloaded or copied as follow links: </br>
+<strong> https://github.com/ojooseong/CSB/blob/master/Tax_data_convert_kraken2.py </strong>
